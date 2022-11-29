@@ -1,0 +1,20 @@
+[
+    {
+        "precio": 21.75,
+        "id": 1,
+        "title": "Esperando El Diluvio",
+        "thumbnailUrl": "/img/9788423362479.jpg"
+    },
+    {
+        "precio": 22.32,
+        "id": 2,
+        "title": "Lejos De Luisiana",
+        "thumbnailUrl": "/img/9788408265603.jpg"
+    },
+    {
+        "precio": 21.75,
+        "id": 3,
+        "title": "Cuando Era Divertido",
+        "thumbnailUrl": "/img/9788466673303.jpg"
+    }
+]
